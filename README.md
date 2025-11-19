@@ -21,7 +21,7 @@ I'm a SWE Engineer and Developer Advocate at Amazon Alexa, passionate about lear
 
 **Currently:** Technical Developer Advocate @ Alexa (Amazon) | Supporting 500+ global developers
 
-**Location:** London, UK 🇬🇧 | Originally from 
+**Location:** London, UK 🇬🇧 | Originally from 🇧🇫
 
 ## 💻 Technical Stack
 
